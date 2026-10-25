@@ -31,8 +31,8 @@ fitur berjalan **tanpa database**, menggunakan penyimpanan browser.
 
 - 💻 **Website lokal:** http://localhost:3000
 - 🔐 **Admin lokal:** http://localhost:3000/admin
-- 🌐 **Live demo:** Segera tersedia setelah deployment ke Vercel.
-- 📁 **Repository:** Tambahkan URL repository setelah upload ke GitHub.
+- 🌐 **Live demo:** https://hotel-sela-stay.vercel.app/
+- 📁 **Repository:** [https://github.com/khalilurrahmanmahdi12/hotel-sela-stay.](https://github.com/khalilurrahmanmahdi12/hotel-sela-stay.)
 - 💼 **Portofolio:** [khalildev.web.id](https://khalildev.web.id/)
 - 👨‍💻 **GitHub:** [khalilurrahmanmahdi12](https://github.com/khalilurrahmanmahdi12)
 
