@@ -405,9 +405,6 @@ Gunakan tombol **Isi akun demo** untuk mengisi form secara otomatis.
 - ✅ CRUD nomor kamar
 - ✅ Login dan logout admin demo
 - ✅ Pemeriksaan ESLint dan production build
-- ⏳ Penambahan foto hotel dan kamar
-- ⏳ Publikasi repository GitHub
-- ⏳ Deployment ke Vercel
 
 ---
 
